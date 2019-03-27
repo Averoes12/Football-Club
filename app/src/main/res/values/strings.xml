@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Football Club</string>
+
+    <!--todo 3 menampung data yang akan kita tampilkan dalam array-->
+
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Real Madrid FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester City FC</item>
+        <item>Manchester United FC</item>
+        <item>Chelsea FC</item>
+        <item>AC Milan FC</item>
+        <item>Arsenal FC</item>
+    </string-array>
+
+    <!--todo 4 memasukkan gambar yang akan di tampilkan ke dalam drawable-->
+
+    <!--todo 5 tampung gambar kedalam array-->
+
+    <string-array name="club_image">
+        <item>@drawable/img1</item>
+        <item>@drawable/img2</item>
+        <item>@drawable/img3</item>
+        <item>@drawable/img4</item>
+        <item>@drawable/img5</item>
+        <item>@drawable/img6</item>
+        <item>@drawable/img7</item>
+        <item>@drawable/img8</item>
+    </string-array>
+</resources>
